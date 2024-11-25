@@ -9,7 +9,7 @@ Run the file wholesale_data_analysis_starter_code.ipynb
 
 ### Resources:
 The completed assignment is the folder pandas-challenge-1 in the file menu_py. 
-The resource file - client dataset.csv was  provided with the assignment. 
+The resource file - client dataset.csv was provided with the assignment. 
 
 ### Known Issues:
 I had trouble with the last few questions.  For some reason the dataframe in [22]
